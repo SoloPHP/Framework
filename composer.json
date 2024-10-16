@@ -32,6 +32,7 @@
     "solophp/validator": "^1.0",
     "solophp/paginator": "^1.0",
     "solophp/image-uploader": "dev-main",
+    "solophp/utilites": "dev-main",
     "solophp/storage": "^1.0",
     "solophp/flash-messages": "^1.0",
     "solophp/formatter": "^1.0"
