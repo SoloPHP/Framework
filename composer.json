@@ -35,7 +35,8 @@
     "solophp/utilities": "dev-main",
     "solophp/storage": "^1.0",
     "solophp/flash-messages": "^1.0",
-    "solophp/formatter": "^1.0"
+    "solophp/formatter": "^1.0",
+    "solophp/base-api-client": "^1.0"
   },
   "minimum-stability": "dev",
   "prefer-stable": true
