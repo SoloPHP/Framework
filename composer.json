@@ -20,7 +20,7 @@
     "php": ">=8.1",
     "solophp/application": "^1.0",
     "solophp/container": "^1.0",
-    "solophp/database": "^1.2",
+    "solophp/database": "^2.0",
     "solophp/repository": "^1.2",
     "solophp/http-client": "^1.0",
     "solophp/http-emitter": "^1.0",
