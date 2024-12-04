@@ -41,8 +41,8 @@
     "solophp/session": "^1.0",
     "solophp/formatter": "^1.0",
     "solophp/logger": "^1.0",
-    "solophp/image-uploader": "^1.0",
-    "solophp/utilities": "^1.0"
+    "solophp/image-uploader": "dev-main",
+    "solophp/utilities": "dev-main"
   },
   "minimum-stability": "dev",
   "prefer-stable": true
