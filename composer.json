@@ -36,7 +36,7 @@
     "solophp/inertia": "^1.1",
     "solophp/flash-messages": "^1.0",
     "solophp/validator": "^1.0",
-    "solophp/paginator": "^1.0",
+    "solophp/paginator": "^2.0",
     "solophp/translate": "^1.0",
     "solophp/session": "^1.0",
     "solophp/formatter": "^1.0",
