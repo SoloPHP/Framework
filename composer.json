@@ -25,6 +25,7 @@
   "require": {
     "php": ">=8.2",
     "solophp/application": "^1.0",
+    "solophp/router": "^1.0",
     "solophp/container": "^2.0",
     "solophp/configs": "^1.0",
     "solophp/settings": "^1.0",
